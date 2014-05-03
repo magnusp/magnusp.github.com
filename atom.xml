@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-05-03T22:54:35+02:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://magnusp.github.io/atom.xml" rel="self"/>
+  <link href="http://magnusp.github.io/"/>
+  <updated>2014-05-03T22:56:16+02:00</updated>
+  <id>http://magnusp.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Magnus Persson]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
